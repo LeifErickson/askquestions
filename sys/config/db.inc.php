@@ -32,8 +32,8 @@ $B['CLIENT_ID'] = 1;                                        //Android App Client
 
 $B['GOOGLE_API_KEY'] = "api key";                    //Server API Key (for sending gcm messages)
 
-$B['APP_HOST'] = "qascript.com.ua";                         //edit to your domain example: http://yourdomain.com
-$B['APP_URL'] = "http://qascript.com.ua";                   //edit to your domain url
+$B['APP_HOST'] = "https://askquestions.herokuapp.com/";                         //edit to your domain example: http://yourdomain.com
+$B['APP_URL'] = "https://askquestions.herokuapp.com/";                   //edit to your domain url
 $B['GOOGLE_PLAY_LINK'] = "https://play.google.com/store/apps/details?id=ua.com.qascript.android";
 
 $B['SMTP_EMAIL'] = 'support@qascript.com.ua';               //SMTP email
